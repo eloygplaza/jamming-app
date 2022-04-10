@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Description
+
+Jamming app comes from 'Create React App' and we added a connection to the Spotify API to retrieve Songs and create our Playlist
+
+On the left side, when we serach a song, it will appear a list sogns related to that search.
+On the right side, we can create a new playlist by writing a name and add songs that appear in the left panel.
+
 ## Available Scripts
 
 In the project directory, you can run:
