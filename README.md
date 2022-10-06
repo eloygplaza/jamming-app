@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Jamming app comes from 'Create React App' and we added a connection to the Spotify API to retrieve Songs and create our Playlist
 
-On the left side, when we serach a song, it will appear a list sogns related to that search.
+On the left side, when we search a song, it will appear a list of songs related to that search.
 On the right side, we can create a new playlist by writing a name and add songs that appear in the left panel.
 
 ## Available Scripts
