@@ -9,6 +9,8 @@ Jamming app comes from 'Create React App' and we added a connection to the Spoti
 On the left side, when we search a song, it will appear a list of songs related to that search.
 On the right side, we can create a new playlist by writing a name and add songs that appear in the left panel.
 
+Demo: https://eloygplaza.github.io/jamming-app/
+
 ## Available Scripts
 
 In the project directory, you can run:
